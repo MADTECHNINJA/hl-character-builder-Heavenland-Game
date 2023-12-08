@@ -1,2 +1,4 @@
-# hl-character-builder-Heavenland-Game
-hl-character-builder Heavenland-Game
+### `copy .env.example to .env`
+
+### `npm start`
+

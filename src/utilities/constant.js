@@ -1,0 +1,6 @@
+export const subdomain = process.env.REACT_APP_SUB_DOMAIN || 'heavenland'
+export const wsUrl = process.env.REACT_APP_WS_URL || 'https://websocket-server-bt4zme4z7q-uc.a.run.app'
+export const charBuilder = process.env.REACT_APP_CHAR_BUILDER || '/api/character'
+export const INVENTORY_UI_URI = process.env.REACT_APP_INVENTORY_UI_URI || 'https://inventory-webapp-bt4zme4z7q-uc.a.run.app'
+export const AUTH_URI = process.env.REACT_APP_AUTH_URI || 'https://devapi.heavenland.io/idm/auth/access-token'
+export const REACT_APP_LOGIN_PORTAL = process.env.REACT_APP_LOGIN_PORTAL || 'https://auth.staging.heavenland.io?client=webapp'
